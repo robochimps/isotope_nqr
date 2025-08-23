@@ -1,0 +1,25 @@
+! RKS NORI TPSS DKH2 DKH-def2-TZVP Decontract VERYTIGHTSCF SlowConv
+
+%MaxCore 100000
+
+%basis newgto Cl "old-DKH-TZVP" end
+end
+
+%method
+  SpecialGridAtoms 17
+  SpecialGridIntAcc 7
+end
+
+* xyz 0 1
+  C          -0.00000000001621     -0.80142236709582      0.00000072163835
+  H           0.00000000002945     -1.41063135299497     -0.89396614965566
+  H           0.00000000002903     -1.41062470375924      0.89397212084555
+  Cl          1.46614804313191      0.17816692189874     -0.00000108141425
+  Cl         -1.46614804317418      0.17816692195128     -0.00000108141399
+*
+
+%eprnmr nuclei = all {fgrad}
+end
+
+%rel PictureChange true
+end
