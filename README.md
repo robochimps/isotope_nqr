@@ -6,6 +6,12 @@ This repository contains example code and calculations accompanying the manuscri
 
 Contents
 ---
+The folders [s2cl2](s2cl2) and [ch2cl2](ch2cl2) contain calculation results presented in the manuscript, along with the corresponding Jupyter notebook codes.
+
+- [s2cl2/s2cl2_35_35.ipynb](s2cl2/s2cl2_35_35.ipynb): calculations for the symmetric isotopologue $\text{S}_2^{35}\text{Cl}_2$  
+- [s2cl2/s2cl2_35_37.ipynb](s2cl2/s2cl2_35_37.ipynb): calculations for the asymmetric isotopologue $\text{S}_2^{35}\text{Cl}^{37}\text{Cl}$  
+- [ch2cl2/ch2cl2_35_35.ipynb](ch2cl2/ch2cl2_35_35.ipynb): calculations for the symmetric isotopologue $\text{CH}_2^{35}\text{Cl}_2$  
+- [ch2cl2/ch2cl2_35_37.ipynb](ch2cl2/ch2cl2_35_37.ipynb): calculations for the asymmetric isotopologue $\text{CH}_2^{35}\text{Cl}^{37}\text{Cl}$
 
 Requirements
 ---
