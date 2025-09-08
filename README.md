@@ -1,6 +1,6 @@
 # Effects of isotope substitution on nucler spin hyperfine interactions
 
-This repository contains example code and calculations accompanying the manuscript:
+This repository contains source code and results of calculations accompanying the manuscript:
 
 > A. Yachmenev and E. Vogt, "Enhancement of nuclear spin transitions as a resonance effect of isotope substitution" (submitted)
 
