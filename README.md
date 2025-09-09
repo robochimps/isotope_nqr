@@ -1,4 +1,4 @@
-# Effects of isotope substitution on nucler spin hyperfine interactions
+# Effects of isotope substitution on nuclear-quadrupole hyperfine interactions
 
 This repository contains source code and results of calculations accompanying the manuscript:
 
